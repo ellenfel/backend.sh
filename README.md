@@ -102,3 +102,6 @@
 10. Microservices-based Application: Develop a complex application using microservices architecture.
 
 This curriculum covers fundamental to advanced topics in backend development with Python, along with practical projects to reinforce learning.
+
+
+
