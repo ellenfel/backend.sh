@@ -90,16 +90,35 @@
       - Microservices-based Application
 
 ### Project Suggestions
-1. Simple Calculator: A command-line calculator that performs basic arithmetic operations.
-2. Library Management System: A system to manage books, members, and borrowing/returning of books.
-3. Custom Data Structure: Implement a priority queue with custom methods.
-4. Blog Application: A web application where users can create, edit, and delete blog posts.
-5. Inventory Management System: A system to manage product inventory, including CRUD operations.
-6. E-commerce API: A RESTful API for managing products, orders, and users.
-7. Real-time Chat Application: A chat application using WebSockets for real-time communication.
-8. Test Suite: Write comprehensive tests for one of the previous projects.
-9. Deploy a Flask Application: Deploy the blog application to Heroku using Docker.
-10. Microservices-based Application: Develop a complex application using microservices architecture.
+
+### Beginner Projects
+1. Task Tracker: Build a CLI app to track your tasks and manage your to-do list.
+2. GitHub User Activity: Use GitHub API to fetch user activity and display it in the terminal.
+3. Expense Tracker: Build a simple expense tracker to manage your finances.
+4. Number Guessing Game: Build a simple number guessing game to test your luck.
+5. Unit Converter: Unit converter to convert between different units of measurement.
+6. Personal Blog: Build a personal blog to write and publish articles on various topics.
+7. Blogging Platform API: Build a RESTful API for a personal blogging platform.
+8. Todo List API: Build a RESTful API to allow users to manage their to-do list.
+9. Weather API: Build a weather API that fetches and returns weather data.
+10. Expense Tracker API: Build an API for an expense tracker application.
+
+
+### Intermediate Projects
+10. Caching Proxy: Build a caching server that caches responses from other servers.
+11. Markdown Note-taking App: Build a note-taking app that uses markdown for formatting.
+12. URL Shortening Service: Build a URL Shortener API that helps shorten long URLs.
+13. Broadcast Server: Build a server that can broadcast messages to connected clients.
+14. E-Commerce API: E-Commerce platform with cart and payment gateway integration.
+15. Workout Tracker: App to let users track their workouts and progress.
+16. Image Processing Service: Build a service that allows users to upload and process images.
+
+### Advanced Projects
+17. Scalable E-Commerce Platform: Build an e-commerce platform using microservices architecture.
+18. Movie Reservation System: Build a system that allows users to reserve movie tickets.
+19. Real-time Leaderboard: Create a real-time leaderboard system for ranking and scoring.
+20. Database Backup Utility: Build a database backup utility that can backup and restore any DB.
+
 
 This curriculum covers fundamental to advanced topics in backend development with Python, along with practical projects to reinforce learning.
 
